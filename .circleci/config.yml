@@ -7,5 +7,5 @@ jobs:
       - checkout
       - run:
           command: |
-            - gradle test
+            gradle test
 
